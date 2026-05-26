@@ -1,0 +1,16 @@
+data:
+  train_dataset: "imrankhan77/nct-crc-he-100k"  
+  test_dataset: "imrankhan77/crc-val-he-7k"    
+  train_dataset_path: "datasets/imrankhan77/nct-crc-he-100k/versions/1/NCT-CRC-HE-100K"
+  test_dataset_path: "datasets/imrankhan77/crc-val-he-7k/versions/1/CRC-VAL-HE-7K" 
+
+  image_size: 28         # original images are 224x224, but in pathmnist 28x28      
+  batch_size: 128
+  num_workers: 4
+  val_split: 0.2
+
+training:
+  model_name: "kmeans"    
+  epochs: 1
+  learning_rate: 0.001
+  num_classes: 9

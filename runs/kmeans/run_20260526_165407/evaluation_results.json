@@ -1,0 +1,6 @@
+{
+    "test_accuracy": 0.3172701949860724,
+    "test_auc": 0.7013634166077481,
+    "evaluated_at": "run_20260526_165407",
+    "model_architecture": "kmeans"
+}

@@ -1,0 +1,9 @@
+.env
+
+datasets/
+
+wandb
+
+__pycache__
+.venv
+.vscode

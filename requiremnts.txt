@@ -1,0 +1,12 @@
+torch
+torchvision
+pillow
+tqdm
+medmnist
+kagglehub
+pyyaml
+numpy
+scikit-learn
+matplotlib
+wandb
+python-dotenv

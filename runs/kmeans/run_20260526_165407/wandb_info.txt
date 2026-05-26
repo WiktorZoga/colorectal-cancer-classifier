@@ -1,0 +1,2 @@
+Run ID: p53c3pgb
+Run URL: https://wandb.ai/wiktor-zoga-uwr/colorectal-cancer-classifier/runs/p53c3pgb
